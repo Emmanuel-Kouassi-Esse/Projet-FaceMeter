@@ -1,0 +1,15 @@
+filename,true_age,pred_age,true_gender,pred_gender
+1.jpeg,23,28,Male,Male
+2.jpeg,30,50,Female,Female
+3.jpeg,65,43,Female,Female
+4.jpeg,45,24,Female,Female
+5.jpeg,35,35,Male,Male
+6.jpeg,30,40,Male,Male
+7.jpeg,30,43,Male,Male
+8.jpeg,24,27,Male,Male
+9.jpeg,30,49,Male,Male
+10.jpeg,38,47,Male,Male
+11.jpeg,30,37,Female,Female
+12.jpeg,16,29,Female,Female
+13.jpeg,25,31,Female,Female
+14.jpeg,29,42,Male,Male
