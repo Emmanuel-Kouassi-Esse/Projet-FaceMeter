@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-numpy
+numpy<2
 pandas
 scikit-learn
 uniface
