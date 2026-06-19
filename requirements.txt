@@ -3,4 +3,4 @@ opencv-python-headless
 numpy<2
 pandas
 scikit-learn
-uniface
+uniface[cpu]
